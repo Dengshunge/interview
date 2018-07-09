@@ -10,3 +10,5 @@
 
 其它还考察了BP网络的推导，adagrad,leakyRelu等内容，神经网络的内容偏多。  
 对于机器学习，主要考察了SVM，LR的内容。还有sigmoid函数。
+
+[这里有专门的帖子记录了试题](https://www.nowcoder.com/discuss/85562)
