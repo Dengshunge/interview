@@ -29,6 +29,8 @@ def Find_shangu(lis):
         return 0
 
 if __name__ == '__main__':
+    # 下面几行的输入处理复杂了，其实就一条语句就OK
+    # lis = input()[1:-1]
     lis = input()
     if lis[0] == '[':
         lis = lis[1:]
